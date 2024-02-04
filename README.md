@@ -1,7 +1,7 @@
 ### Hi there, my name is Vaillant
 #### I am an Information Management Undergraduate
 
-Skills: C++ / JAVA/ DBMS/ C
+Skills: C++ / JAVA/ DBMS/ C  
 
 
 
