@@ -1,5 +1,5 @@
 ### Hi there, my name is Vaillant
-#### I am an Information Management  Undergraduate
+#### I am a Software Developer
 
 Skills: C++ / JAVA/ C /React/Python  
 
