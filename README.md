@@ -10,9 +10,10 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📊 Most Used Languages on GitHub
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaillantm&show_icons=true&theme=tokyonight" alt="Vaillant's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaillantm&layout=compact&theme=tokyonight" alt="Top Languages Used by Vaillant" />
 </p>
 
 ---
@@ -20,4 +21,3 @@
 ### 📫 Connect with Me
 - 🔗 [GitHub Profile](https://github.com/vaillantm)
 - 📧 manzivaillant@gmail.com
-
