@@ -5,7 +5,7 @@
 
 ### 🚀 Skills & Technologies
 - 💻 **Languages:** C++, Java, C, Python
-- 🌐 **Frontend:** React
+- 🌐 **Frontend:** React,HTML
 - 🛠️ **Tools & Technologies:** Git, GitHub, VS Code, IntelliJ, Eclipse
 
 ---
