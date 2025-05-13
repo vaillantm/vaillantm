@@ -19,5 +19,5 @@
 ---
 
 ### 📫 Connect with Me
-- 🔗 [GitHub Profile](https://github.com/vaillantm)
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/vaillant-manzi-84509a191/)
 - 📧 manzivaillant@gmail.com
