@@ -1,4 +1,4 @@
-###  Hi there, my name is **Vaillant**
+###  Hi, my name is **Vaillant**
 ### 💻 I am a Software Developer and Graphic Designer
 
 
