@@ -1,5 +1,5 @@
 
-# I am a Software Developer and Graphic Designer
+## I am a Software Developer and Graphic Designer
 
 
 
@@ -20,5 +20,7 @@
 ---
 
 ### 📫 Connect with Me
-- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/vaillant-manzi-84509a191/)
-- 📧 manzivaillant@gmail.com
+- LinkedIn [LinkedIn Profile](https://www.linkedin.com/in/vaillant-manzi-84509a191/)  
+- Gmail [Gmail](mailto:manzivaillant@gmail.com)
+- Instagram [Instagram](https://www.instagram.com/justvaillant/)
+
