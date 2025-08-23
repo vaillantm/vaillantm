@@ -20,7 +20,7 @@
 ---
 
 ### 📫 Connect with Me
-- LinkedIn [LinkedIn Profile](https://www.linkedin.com/in/vaillant-manzi-84509a191/)  
-- Gmail [Gmail](mailto:manzivaillant@gmail.com)
-- Instagram [Instagram](https://www.instagram.com/justvaillant/)
+-  [LinkedIn Profile](https://www.linkedin.com/in/vaillant-manzi-84509a191/)  
+-  [Gmail](mailto:manzivaillant@gmail.com)
+-  [Instagram](https://www.instagram.com/justvaillant/)
 
