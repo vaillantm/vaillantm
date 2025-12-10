@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" alt="Instagram" />
   </a>
   <a href="https://x.com/vaillantknows" target="_blank">
-    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="40" alt="X / Twitter" />
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="40" alt="Twitter / Twitter" />
   </a>
   <a href="mailto:manzivaillant@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Gmail" />
