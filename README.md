@@ -15,8 +15,8 @@
 
 
 
-### Connect with Me
 
+<h3 align="left">Connect With Me:</h3>
 <div style="display: flex; gap: 8px; flex-wrap: wrap; align-items: center;">
   <a href="https://www.linkedin.com/in/vaillant-manzi-84509a191/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn" />
