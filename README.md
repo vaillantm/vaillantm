@@ -16,17 +16,17 @@
 
 ### Connect with Me
 
-<div style="display: flex; gap: 8px; flex-wrap: wrap; align-items: center;">
+<div style="display: flex; gap: 8px; align-items: center;">
   <a href="https://www.linkedin.com/in/vaillant-manzi-84509a191/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=LinkedIn" height="40" alt="LinkedIn" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="40" alt="LinkedIn Logo" />
   </a>
   <a href="https://www.instagram.com/justvaillant/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&label=Instagram" height="40" alt="Instagram" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="40" alt="Instagram Logo" />
   </a>
-  <a href="https://x.com/vaillantknows" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&label=Twitter" height="40" alt="Twitter" />
+  <a href="https://www.twitch.tv/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=flat" height="40" alt="Twitch Logo" />
   </a>
   <a href="mailto:manzivaillant@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=Gmail" height="40" alt="Gmail" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="40" alt="Gmail Logo" />
   </a>
 </div>
